@@ -7,7 +7,7 @@ import akka.http.scaladsl.Http
 import com.knoldus.inc.entities._
 import akka.stream.ActorMaterializer
 import com.knoldus.inc.routes.UserRoutes
-import com.knoldus.inc.shopping.ComputeTeam
+import com.knoldus.inc.teamsRequest.ComputeTeam
 import com.typesafe.config.ConfigFactory
 import scala.concurrent.ExecutionContextExecutor
 import scala.io.StdIn

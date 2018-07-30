@@ -4,7 +4,7 @@ import akka.http.caching.scaladsl.Cache
 import akka.http.scaladsl.server.Route
 import akka.http.scaladsl.server.Directives._
 import com.knoldus.inc.entities._
-import com.knoldus.inc.shopping.ComputeTeam
+import com.knoldus.inc.teamsRequest.ComputeTeam
 import de.heikoseeberger.akkahttpplayjson.PlayJsonSupport
 
 /**
